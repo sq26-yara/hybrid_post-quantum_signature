@@ -1,0 +1,12 @@
+# Hybrid Signature: DSTU 4145 + ML-DSA-44
+# Python 3.9+
+
+# Постквантова криптографія
+liboqs-python>=0.10.0
+
+# Математика для GF(2^m)
+numpy>=1.24.0
+
+# Jupyter для демонстрації
+jupyter>=1.0.0
+notebook>=7.0.0

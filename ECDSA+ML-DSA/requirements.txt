@@ -1,0 +1,13 @@
+# ECDSA + ML-DSA Hybrid Signature Requirements
+
+# ECDSA бібліотека
+ecdsa>=0.18.0
+
+# Постквантова криптографія (ML-DSA)
+# Встановлення: pip install liboqs-python --break-system-packages
+# Альтернатива (conda): conda install -c conda-forge liboqs liboqs-python
+liboqs-python>=0.14.0
+
+# Опційно для demo та тестів
+jupyter>=1.0.0
+notebook>=6.5.0
